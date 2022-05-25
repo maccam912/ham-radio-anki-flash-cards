@@ -1,0 +1,411 @@
+<div>Which of the following is part of the Basis and Purpose of the Amateur Radio Service?</div>	<div>Advancing skills in the technical and communication phases of the radio art</div>
+<div>Which agency regulates and enforces the rules for the Amateur Radio Service in the United States?</div>	The FCC
+<div>What do the FCC rules state regarding the use of a phonetic alphabet for station identification in the Amateur Radio Service?</div>	It is encouraged
+<div>How many operator/primary station license grants may be held by any one person?</div>	One
+<div>What proves that the FCC has issued an operator/primary license grant?</div>	<div>The license appears in the FCC ULS database</div>
+<div>What is the FCC Part 97 definition of a beacon?</div>	An amateur station transmitting communications for the purposes of observing propagation or related experimental activities
+<div>What is the FCC Part 97 definition of a space station?</div>	"<div>An amateur station located more than 50 km above Earth's surface</div>"
+<div>Which of the following entities recommends transmit/receive channels and other parameters for auxiliary and repeater stations?</div>	Volunteer Frequency Coordinator recognized by local amateurs
+<div>Who selects a Frequency Coordinator?</div>	Amateur operators in a local or regional area whose stations are eligible to be repeater or auxiliary stations
+<div>What is the Radio Amateur Civil Emergency Service (RACES)?&nbsp;</div>	A radio service using amateur frequencies for emergency management or civil defense communications, A radio service using amateur stations for emergency management or civil defense communications, and An emergency service using amateur operators certified by a civil defense organization as being enrolled in that organization
+<div>When is willful interference to other amateur radio stations permitted?</div>	Never
+<div>Which of the following frequency ranges are available for phone operation by Technician licensees?</div>	28.300 MHz to 28.500 MHz
+<div>Which amateurs may contact the International Space Station (ISS) on VHF bands?</div>	Any amateur holding a Technician class or higher license
+<div>Which frequency is in the 6 meter amateur band?</div>	52.525 MHz
+<div>Which amateur band includes 146.52 MHz?</div>	2 meters
+<div>How may amateurs use the 219 to 220 MHz <a>segment </a>of 1.25 meter band?</div>	<div>Fixed digital message forwarding systems only</div>
+<div>On which HF bands does a Technician class operator have phone privileges?</div>	10 meter band only
+<div>Which of the following VHF/UHF band segments are limited to CW only?</div>	50.0 MHz to 50.1 MHz and 144.0 MHz to 144.1 MHz
+<div>How are US amateurs restricted in segments of bands where the Amateur Radio Service is secondary?</div>	U.S. amateurs may find non-amateur stations in those segments, and must avoid interfering with them
+<div>Why should you not set your transmit frequency to be exactly at the edge of an amateur band or sub-band?</div>	To allow for calibration error in the transmitter frequency display, So that modulation sidebands do not extend beyond the band edge, and To allow for transmitter frequency drift
+<div>Where may SSB phone be used in amateur bands above 50 MHz?</div>	In at least some segment of all these bands
+<div>What is the maximum peak envelope power output for Technician class operators in their HF band segments?</div>	<div>200 watts</div>
+<div>Except for some specific restrictions, what is the maximum peak envelope power output for Technician class operators using frequencies above 30 MHz?</div>	<div>1500 watts</div>
+<div>For which license classes are new licenses currently available from the FCC?</div>	Technician, General, Amateur Extra
+<div>Who may select a desired call sign under the vanity call sign rules?</div>	Any licensed amateur
+<div>What types of international communications are an FCC-licensed amateur radio station permitted to make?</div>	<div>Communications incidental to the purposes of the Amateur Radio Service and remarks of a personal character</div>
+<div>What may happen if the FCC is unable to reach you by email?</div>	<div>Revocation of the station license or suspension of the operator license</div>
+<div>Which of the following is a valid Technician class call sign format?</div>	KF1XXX
+<div>From which of the following locations may an FCC-licensed amateur station transmit?</div>	From any vessel or craft located in international waters and documented or registered in the United States
+<div>Which of the following can result in revocation of the station license or suspension of the operator license?</div>	Failure to provide and maintain a correct email address with the FCC
+<div>What is the normal term for an FCC-issued amateur radio license?</div>	<div>Ten years</div>
+<div>What is the grace period for renewal if an amateur license expires?</div>	Two years
+<div>How soon after passing the examination for your first amateur radio license may you transmit on the amateur radio bands?&nbsp;</div>	As soon as your operator/station license grant appears in the FCC’s license database
+<div>If your license has expired and is still within the allowable grace period, may you continue to transmit on the amateur radio bands?</div>	No, you must wait until the license has been renewed
+<div>With which countries are FCC-licensed amateur radio stations prohibited from exchanging communications?</div>	Any country whose administration has notified the International Telecommunication Union (ITU) that it objects to such communications
+<div>Under which of the following circumstances are one-way transmissions by an amateur station prohibited?</div>	Broadcasting
+<div>When is it permissible to transmit messages encoded to obscure their meaning?</div>	Only when transmitting control commands to space stations or radio control craft
+<div>Under what conditions is an amateur station authorized to transmit music using a phone emission?</div>	When incidental to an authorized retransmission of manned spacecraft communications
+<div>When may amateur radio operators use their stations to notify other amateurs of the availability of equipment for sale or trade?</div>	<div>When selling amateur radio equipment and not on a regular basis</div>
+<div>What, if any, are the restrictions concerning transmission of language that may be considered indecent or obscene?</div>	Any such language is prohibited
+<div>What types of amateur stations can automatically retransmit the signals of other amateur stations?</div>	<div>Repeater, auxiliary, or space stations</div>
+<div>In which of the following circumstances may the control operator of an amateur station receive compensation for operating that station?&nbsp;</div>	When the communication is incidental to classroom instruction at an educational institution
+<div>When may amateur stations transmit information in support of broadcasting, program production, or news gathering, assuming no other means is available?</div>	<div>When such communications are directly related to the immediate safety of human life or protection of property</div>
+<div>How does the FCC define broadcasting for the Amateur Radio Service?</div>	Transmissions intended for reception by the general public
+<div>When may an amateur station transmit without identifying on the air?</div>	When transmitting signals to control model craft
+<div>When may an amateur station transmit without a control operator?</div>	Never
+<div>Who may be the control operator of a station communicating through an amateur satellite or space station?</div>	Any amateur allowed to transmit on the satellite uplink frequency
+<div>Who must designate the station control operator?</div>	<div>The station licensee</div>
+<div>What determines the transmitting frequency privileges of an amateur station?</div>	The class of operator license held by the control operator
+<div>What is an amateur station’s control point?</div>	The location at which the control operator function is performed
+<div>When, under normal circumstances, may a Technician class licensee be the control operator of a station operating in an Amateur Extra Class band segment?</div>	At no time
+<div>When the control operator is not the station licensee, who is responsible for the proper operation of the station?</div>	<div>The control operator and the station licensee</div>
+<div>Which of the following is an example of automatic control?</div>	Repeater operation
+<div>Which of the following are required for remote control operation?</div>	<div>All these choices are correct</div>
+<div>Which of the following is an example of remote control as defined in Part 97?</div>	<div>Operating the station over the internet</div>
+<div>Who does the FCC presume to be the control operator of an amateur station, unless documentation to the contrary is in the station records?</div>	The station licensee
+<div>When must the station and its records be available for FCC inspection?</div>	At any time upon request by an FCC representative
+<div>How often must you identify with your FCC-assigned call sign when using tactical call signs such as “Race Headquarters”?&nbsp;</div>	At the end of each communication and every ten minutes during a communication
+<div>When are you required to transmit your assigned call sign?</div>	<div>At least every 10 minutes during and at the end of a communication</div>
+<div>What language may you use for identification when operating in a phone sub-band?</div>	English
+<div>What method of call sign identification is required for a station transmitting phone signals?</div>	<div>Send the call sign using a CW or phone emission</div>
+<div>Which of the following self-assigned indicators are acceptable when using a phone transmission?</div>	<div>KL7CC stroke W3 ... or ... KL7CC slant W3 ... or ... KL7CC slash W3</div> <div>&nbsp;All these choices are correct</div>
+<div>Which of the following restrictions apply when a non-licensed person is allowed to speak to a foreign station using a station under the control of a licensed amateur operator?</div>	The foreign station must be in a country with which the U.S. has a third party agreement
+<div>What is the definition of <a>third </a>party communications?</div>	<div>A message from a control operator to another amateur station control operator on behalf of another person</div>
+<div>What type of amateur station simultaneously retransmits the signal of another amateur station on a different channel or channels?</div>	<div>Repeater station</div>
+<div>Who is accountable if a repeater inadvertently retransmits communications that violate the FCC rules?</div>	<div>The control operator of the originating station</div>
+<div>Which of the following is a requirement for the issuance of a club station license grant?</div>	<div>The club must have at least four members</div>
+<div>What is a common repeater frequency offset in the 2 meter band?</div>	<div>Plus or minus 600 kHz</div>
+<div>What is the national calling frequency for FM simplex operations in the 2 meter band?</div>	<div>146.520 MHz</div>
+<div>What is a common repeater frequency offset in the 70 cm band?</div>	Plus or minus 5 MHz
+"<div>What is an appropriate way to call another station on a repeater if you know the other station's call sign?</div>"	"Say the station's call sign, then identify with your call sign"
+<div>How should you respond to a station calling CQ?</div>	<div>Transmit the other station’s call sign followed by your call sign</div>
+<div>Which of the following is required when making on-the-air test transmissions?</div>	<div>Identify the transmitting station</div>
+"<div>What is meant by ""repeater offset”?</div>"	<div>The difference between a repeater’s transmit and receive frequencies</div>
+<div>What is the meaning of the procedural signal “CQ”?</div>	Calling any station
+<div>Which of the following indicates that a station is listening on a repeater and looking for a contact?</div>	<div>. The station’s call sign followed by the word “monitoring”</div>
+<div>What is a band plan, beyond the privileges established by the FCC?</div>	A voluntary guideline for using different modes or activities within an amateur band
+<div>What term describes an amateur station that is transmitting and receiving on the same frequency?</div>	<div>Simplex</div>
+<div>What should you do before calling CQ?&nbsp;&nbsp;</div>	<div>Listen first to be sure that no one else is using the frequency, Ask if the frequency is in use, and Make sure you are authorized to use that frequency</div>
+<div>How is a VHF/UHF transceiver’s “reverse” function used?&nbsp;</div>	<div>To listen on a repeater’s input frequency</div>
+<div>What term describes the use of a sub-audible tone transmitted along with normal voice audio to open the squelch of a receiver?</div>	<div>CTCSS</div>
+<div>Which of the following describes a linked repeater network?</div>	A network of repeaters in which signals received by one repeater are transmitted by all the repeaters in the network
+<div>Which of the following could be the reason you are unable to access a repeater whose output you can hear?</div>	<div>Improper transceiver offset, You are using the wrong CTCSS tone, or You are using the wrong DCS code</div>
+<div>What would cause your FM transmission audio to be distorted on voice peaks?</div>	<div>You are talking too loudly</div>
+<div>What type of signaling uses pairs of audio tones?</div>	DTMF
+<div>How can you join a digital repeater’s “talkgroup”?</div>	<div>Program your radio with the group’s ID or code</div>
+<div>Which of the following applies when two stations transmitting on the same frequency interfere with each other?</div>	The stations should negotiate continued use of the frequency
+<div>Why are simplex channels designated in the VHF/UHF band plans?</div>	<div>So stations within range of each other can communicate without tying up a repeater</div>
+<div>Which Q signal indicates that you are receiving interference from other stations?</div>	QRM
+<div>Which Q signal indicates that you are changing frequency?</div>	<div>QSY</div>
+<div>What is the purpose of the color code used on DMR repeater systems?</div>	Must match the repeater color code for access
+<div>What is the purpose of a squelch function?</div>	Mute the receiver audio when a signal is not present
+<div>When do FCC rules NOT apply to the operation of an amateur station?</div>	<div>FCC rules always apply</div>
+<div>Which of the following are typical duties of a Net Control Station?</div>	<div>Call the net to order and direct communications between stations checking in</div>
+<div>What technique is used to ensure that voice messages containing unusual words are received correctly?</div>	Spell the words using a standard phonetic alphabet
+<div>What is RACES?</div>	An FCC part 97 amateur radio service for civil defense communications during national emergencies
+<div>What does the term “traffic” refer to in net operation?</div>	Messages exchanged by net stations
+<div>What is the Amateur Radio Emergency Service (ARES)?</div>	<div>. A group of licensed amateurs who have voluntarily registered their qualifications and equipment for communications duty in the public service</div>
+<div>Which of the following is standard practice when you participate in a net?</div>	<div>Unless you are reporting an emergency, transmit only when directed by the net control station</div>
+<div>Which of the following is a characteristic of good traffic handling?&nbsp;</div>	<div>Passing messages exactly as received</div>
+<div>Are amateur station control operators ever permitted to operate outside the frequency privileges of their license class?</div>	<div>Yes, but only in situations involving the immediate safety of human life or protection of property</div>
+<div>What information is contained in the preamble of a formal traffic message?</div>	<div>Information needed to track the message&nbsp;</div>
+<div>What is meant by “check” in a radiogram header?</div>	<div>The number of words or word equivalents in the text portion of the message</div>
+<div>Why do VHF signal strengths sometimes vary greatly when the antenna is moved only a few feet?</div>	<div>Multipath propagation cancels or reinforces signals</div>
+<div>What is the effect of vegetation on UHF and microwave signals?</div>	<div>Absorption</div>
+<div>What antenna polarization is normally used for long-distance CW and SSB contacts on the VHF and UHF bands?</div>	Horizontal
+<div>What happens when antennas at opposite ends of a VHF or UHF line of sight radio link are not using the same polarization?</div>	<div>Received signal strength is reduced</div>
+<div>When using a directional antenna, how might your station be able to communicate with a distant repeater if buildings or obstructions are blocking the direct line of sight path?</div>	Try to find a path that reflects signals to the repeater
+<div>What is the meaning of the term “picket fencing”?</div>	Rapid flutter on mobile signals due to multipath propagation
+<div>What weather condition might decrease range at microwave frequencies?</div>	Precipitation&nbsp;
+<div>What is a likely cause of irregular fading of signals propagated by the ionosphere?</div>	Random combining of signals arriving via different paths&nbsp;
+<div>Which of the following results from the fact that signals propagated by the ionosphere are elliptically polarized?</div>	Either vertically or horizontally polarized antennas may be used for transmission or reception
+<div>What effect does multi-path propagation have on data transmissions?</div>	Error rates are likely to increase
+<div>Which region of the atmosphere can refract or bend HF and VHF radio waves?</div>	<div>The ionosphere</div>
+<div>What is the effect of fog and rain on signals in the 10 meter and 6 meter bands?</div>	<div>There is little effect</div>
+<div>What is the relationship between the electric and magnetic fields of an electromagnetic wave?</div>	They are at right angles
+<div>What property of a radio wave defines its polarization?</div>	<div>The orientation of the electric field</div>
+<div>What are the two components of a radio wave?</div>	<div>Electric and magnetic fields</div>
+<div>What is the velocity of a radio wave traveling through free space?</div>	<div>Speed of light</div>
+<div>What is the relationship between wavelength and frequency?</div>	<div>Wavelength gets shorter as frequency increases</div>
+<div>What is the formula for converting frequency to approximate wavelength in meters?</div>	Wavelength in meters equals 300 divided by frequency in megahertz
+<div>In addition to frequency, which of the following is used to identify amateur radio bands?</div>	<div>The approximate wavelength in meters</div>
+<div>What frequency range is referred to as VHF?</div>	<div>30 MHz to 300 MHz</div>
+<div>What frequency range is referred to as UHF?</div>	<div>300 to 3000 MHz</div>
+<div>What frequency range is referred to as HF?</div>	<div>3 to 30 MHz</div>
+<div>What is the approximate velocity of a radio wave in free space?</div>	<div>300,000,000 meters per second</div>
+<div>Why are simplex UHF signals rarely heard beyond their radio horizon?</div>	UHF signals are usually not propagated by the ionosphere
+<div>What is a <a>characteristic </a>of HF communication compared with communications on VHF and higher frequencies?</div>	Long-distance ionospheric propagation is far more common on HF
+<div>What is a characteristic of VHF signals received via auroral backscatter?</div>	They are distorted and signal strength varies considerably
+<div>Which of the following types of propagation is most commonly associated with occasional strong signals on the 10, 6, and 2 meter bands from beyond the radio horizon?</div>	Sporadic E
+<div>Which of the following effects may allow radio signals to travel beyond obstructions between the transmitting and receiving stations?</div>	<div>Knife-edge diffraction</div>
+<div>What type of propagation is responsible for allowing over-the-horizon VHF and UHF communications to ranges of approximately 300 miles on a regular basis?</div>	<div>Tropospheric ducting</div>
+<div>What band is best suited for communicating via meteor scatter?</div>	6 meters
+<div>What causes tropospheric ducting?</div>	Temperature inversions in the atmosphere
+<div>What is generally the best time for long-distance 10 meter band propagation via the F region?</div>	<div>From dawn to shortly after sunset during periods of high sunspot activity</div>
+<div>Which of the following bands may provide long-distance communications via the ionosphere’s F region during the peak of the sunspot cycle?</div>	<div>6 and 10 meters&nbsp;</div>
+<div>Why is the radio horizon for VHF and UHF signals more distant than the visual horizon?</div>	<div>The atmosphere refracts radio waves slightly</div>
+<div>Which of the following is an appropriate power supply rating for a typical 50 watt output mobile FM transceiver?</div>	<div>13.8 volts at 12 amperes</div>
+<div>Which of the following should be considered when selecting an accessory SWR meter?</div>	<div>The frequency and power level at which the measurements will be made</div>
+<div>Why are short, heavy-gauge wires used for a transceiver’s DC power connection?</div>	<div>To minimize voltage drop when transmitting</div>
+<div>How are the transceiver audio input and output connected in a station configured to operate using FT8?</div>	<div>To the audio input and output of a computer running WSJT-X software</div>
+<div>Where should an RF power meter be installed?</div>	<div>In the feed line, between the transmitter and antenna</div>
+<div>What signals are used in a computer-radio interface for digital mode operation?</div>	<div>Receive audio, transmit audio, and transmitter keying</div>
+<div>Which of the following connections is made between a computer and a transceiver to use computer software when operating digital modes?</div>	<div>Computer “line in” to transceiver speaker connector</div>
+<div>Which of the following conductors is preferred for bonding at RF?</div>	<div>Flat copper strap</div>
+<div>How can you determine the length of time that equipment can be powered from a battery?</div>	<div>Divide the battery ampere-hour rating by the average current draw of the equipment</div>
+<div>What function is performed with a transceiver and a digital mode hot spot?</div>	<div>Communication using digital voice or data systems via the internet</div>
+<div>Where should the negative power return of a mobile transceiver be connected in a vehicle?</div>	<div>At the 12 volt battery chassis ground</div>
+<div>What is an electronic keyer?</div>	<div>A device that assists in manual sending of Morse code</div>
+<div>What is the effect of excessive microphone gain on SSB transmissions?</div>	Distorted transmitted audio
+<div>Which of the following can be used to enter a transceiver’s operating frequency?</div>	<div>The keypad or VFO knob</div>
+<div>How is squelch adjusted so that a weak FM signal can be heard?</div>	Set the squelch threshold so that receiver output audio is on all the time
+<div>What is a way to enable quick access to a favorite frequency or channel on your transceiver?</div>	<div>Store it in a memory channel</div>
+<div>What does the scanning function of an FM transceiver do?</div>	<div>Tunes through a range of frequencies to check for activity</div>
+<div>Which of the following controls could be used if the voice pitch of a single-sideband signal returning to your CQ call seems too high or low?</div>	<div>The RIT or Clarifier</div>
+<div>What does a DMR “code plug” contain?</div>	Access information for repeaters and talkgroups
+<div>What is the advantage of having multiple receive bandwidth choices on a multimode transceiver?</div>	Permits noise or interference reduction by selecting a bandwidth matching the mode
+<div>How is a specific group of stations selected on a digital voice transceiver?</div>	By entering the group’s identification code
+<div>Which of the following receiver filter bandwidths provides the best signal-to-noise ratio for SSB reception?</div>	<div>2400 Hz</div>
+<div>Which of the following must be programmed into a D-STAR digital transceiver before transmitting?</div>	Your call sign
+<div>What is the result of tuning an FM receiver above or below a signal’s frequency?</div>	Distortion of the signal’s audio
+<div>Electrical current is measured in which of the following units?</div>	Amperes
+<div>Electrical power is measured in which of the following units?</div>	Watts
+<div>What is the name for the flow of electrons in an electric circuit?</div>	Current&nbsp;
+<div>What are the units of electrical resistance?</div>	Ohms
+<div>What is the electrical term for the force that causes electron flow?</div>	Voltage
+<div>What is the unit of frequency?</div>	Hertz
+<div>Why are metals generally good conductors of electricity?</div>	They have many free electrons
+<div>Which of the following is a good electrical insulator?</div>	Glass
+<div>Which of the following describes alternating current?</div>	Current that alternates between positive and negative directions
+<div>Which term describes the rate at which electrical energy is used?</div>	Power
+<div>What type of current flow is opposed by resistance?</div>	Direct current, Alternating current, AND RF current
+<div>What describes the number of times per second that an alternating current makes a complete cycle?</div>	Frequency
+<div>How many milliamperes is 1.5 amperes?</div>	<div>1500 milliamperes</div>
+<div><a>Which is equal to</a> 1,500,000 hertz?</div>	1500 kHz
+<div>Which is equal to one kilovolt?</div>	<div>One thousand volts</div>
+<div>Which is equal to one microvolt?</div>	One one-millionth of a volt
+<div>Which is equal to 500 milliwatts?</div>	<div>0.5 watts</div>
+<div>Which is equal to 3000 milliamperes?</div>	3 amperes
+<div>Which is equal to 3.525 MHz?&nbsp;</div>	3525 kHz
+<div>Which is equal to 1,000,000 picofarads?</div>	1 microfarad
+<div>Which decibel value most closely represents a power increase from 5 watts to 10 watts?</div>	3 dB
+<div>Which decibel value most closely represents a power decrease from 12 watts to 3 watts?</div>	<div>-6 dB</div>
+<div>Which decibel value represents a power increase from 20 watts to 200 watts?</div>	10 dB
+<div>Which is equal to 28400 kHz?</div>	<div>28.400 MHz</div>
+<div>Which is equal to 2425 MHz?</div>	2.425 GHz
+<div>What describes the ability to store energy in an electric field?</div>	Capacitance
+<div>What is the unit of capacitance?</div>	the farad
+<div>What describes the ability to store energy in a magnetic field?</div>	Inductance
+<div>What is the unit of inductance?</div>	The henry
+<div>What is the unit of impedance?&nbsp;</div>	the ohm
+<div>What does the abbreviation “RF” mean?&nbsp;</div>	<div>Radio frequency signals of all types</div>
+<div>What is the abbreviation for megahertz?</div>	MHz
+<div>What is the formula used to calculate electrical power (P) in a DC circuit?</div>	P = I x&nbsp;E
+<div>How much power is delivered by a voltage of 13.8 volts DC and a current of 10 amperes?</div>	138 watts
+<div>How much power is delivered by a voltage of 12 volts DC and a current of 2.5 amperes?</div>	30 watts
+<div>How much current is required to deliver 120 watts at a voltage of 12 volts DC?</div>	10 amperes
+<div>What is impedance?&nbsp;</div>	The opposition to AC current flow
+<div>What is the abbreviation for kilohertz?</div>	kHz
+<div>What formula is used to calculate current in a circuit?</div>	I = E / R
+<div>What formula is used to calculate voltage in a circuit?</div>	E = I x R
+<div>What formula is used to calculate resistance in a circuit?</div>	R = E / I
+<div>What is the resistance of a circuit in which a current of 3 amperes flows when connected to 90 volts?</div>	30 ohms
+<div>What is the resistance of a circuit for which the applied voltage is 12 volts and the current flow is 1.5 amperes?</div>	<div>8 ohms</div>
+<div>What is the resistance of a circuit that draws 4 amperes from a 12-volt source?</div>	3 ohms
+<div>What is the current in a circuit with an applied voltage of 120 volts and a resistance of 80 ohms?</div>	<div>1.5 amperes</div>
+<div>What is the current through a 100-ohm resistor connected across 200 volts?</div>	&nbsp;2 amperes
+<div>What is the current through a 24-ohm resistor connected across 240 volts?</div>	10 amperes
+<div>What is the voltage across a 2-ohm resistor if a current of 0.5 amperes flows through it?</div>	1 volt
+<div>What is the voltage across a 10-ohm resistor if a current of 1 ampere flows through it?</div>	10 volts
+<div>What is the voltage across a 10-ohm resistor if a current of 2 amperes flows through it?</div>	20 volts
+<div>In which type of circuit is DC current the same through all components?</div>	Series
+<div>In which type of circuit is voltage the same across all components?</div>	Parallel
+<div>What electrical component opposes the flow of current in a DC circuit?</div>	Resistor
+<div>What type of component is often used as an adjustable volume control?</div>	Potentiometer
+<div>What electrical parameter is controlled by a potentiometer?</div>	Resistance
+<div>What electrical component stores energy in an electric field?</div>	Capacitor
+<div>What type of electrical component consists of conductive surfaces separated by an insulator?</div>	Capacitor
+<div>What type of electrical component stores energy in a magnetic field?</div>	Inductor
+<div>What electrical component is typically constructed as a coil of wire?</div>	Inductor
+<div>What is the function of an SPDT switch?</div>	A single circuit is switched between one of two other circuits
+<div>What electrical component is used to protect other circuit components from current overloads?</div>	Fuse
+<div>Which of the following battery chemistries is rechargeable?</div>	NiMH, Lithium Ion, and Lead-acid
+<div>Which of the following battery chemistries is not rechargeable?</div>	Carbon-zinc
+"<div>What type of switch is represented by component 3 in figure T-2?&nbsp;<img src=""t2.png""></div>"	Single-pole single-throw
+<div>Which is true about forward voltage drop in a diode?</div>	<div>It is lower in some diode types than in others</div>
+<div>What electronic component allows current to flow in only one direction?</div>	Diode
+<div>Which of these components can be used as an electronic switch?</div>	Transistor
+<div>Which of the following components can consist of three regions of semiconductor material?</div>	Transistor
+<div>What type of transistor has a gate, drain, and source?</div>	Field-effect
+<div>How is the cathode lead of a semiconductor diode often marked on the package?</div>	With a stripe
+<div>What causes a light-emitting diode (LED) to emit light?</div>	Forward current
+<div>What does the abbreviation FET stand for?</div>	Field Effect Transistor
+<div>What are the names for the electrodes of a diode?</div>	Anode and cathode
+<div>Which of the following can provide power gain?</div>	Transistor
+"<div>What is the term that describes a device's ability to amplify a signal?</div>"	Gain
+<div>What are the names of the electrodes of a bipolar junction transistor?</div>	Emitter, base, collector
+<div>What is the name of an electrical wiring diagram that uses standard component symbols?</div>	Schematic
+"<div>What is component 1 in figure T-1?&nbsp;<img src=""t1.png""></div>"	Resistor
+"<div>What is component 2 in figure T-1?&nbsp;<img src=""t1.png""></div>"	Transistor
+"<div>What is component 3 in figure T-1?&nbsp;<img src=""t1.png""></div>"	Lamp
+"<div>What is component 4 in figure T-1?<img src=""t1.png""></div>"	Battery
+"<div>What is component 6 in figure T-2?&nbsp;<img src=""t2.png""></div>"	Capacitor
+"<div>What is component 8 in figure T-2?&nbsp;<img src=""t2.png""></div>"	LED
+"<div>What is component 9 in figure T-2?&nbsp;<img src=""t2.png""></div>"	Variable Resistor
+"<div>What is component 4 in figure T-2?<img src=""t2.png""></div>"	Transformer
+"<div>What is component 3 in figure T-3?&nbsp;<img src=""t3.png""></div>"	Variable Inductor
+"<div>What is component 4 in figure T-3?&nbsp;<img src=""t3.png""></div>"	Antenna
+<div>Which of the following is accurately represented in electrical schematics?</div>	<div>Component connections</div>
+<div>Which of the following devices or circuits changes an alternating current into a varying direct current signal?</div>	Rectifier
+<div>What is a relay?</div>	An electrically-controlled switch
+<div>Which of the following is a reason to use shielded wire?</div>	<div>To prevent coupling of unwanted signals to or from the wire</div>
+<div>Which of the following displays an electrical quantity as a numeric value?</div>	Meter
+<div>What type of circuit controls the amount of voltage from a power supply?</div>	Regulator
+<div>What component changes 120 V AC power to a lower AC voltage for other uses?</div>	Transformer
+<div>Which of the following is commonly used as a visual indicator?</div>	LED
+<div>Which of the following is combined with an inductor to make a resonant circuit?</div>	Capacitor
+<div>What is the name of a device that combines several semiconductors and other components into one package?</div>	Integrated circuit
+"<div>What is the function of component 2 in figure T-1?&nbsp;<img src=""t1.png""></div>"	Control the flow of current
+<div>Which of the following is a resonant or tuned circuit?</div>	An inductor and a capacitor in series or parallel
+<div>Which term describes the ability of a receiver to detect the presence of a signal?</div>	Sensitivity
+<div>What is a transceiver?</div>	A device that combines a receiver and transmitter
+<div>Which of the following is used to convert a signal from one frequency to another?</div>	Mixer
+<div>Which term describes the ability of a receiver to discriminate between multiple signals?</div>	Selectivity
+<div>What is the name of a circuit that generates a signal at a specific frequency?</div>	Oscillator
+<div>What device converts the RF input and output of a transceiver to another band?</div>	Transverter
+<div>What is the function of a transceiver’s PTT input?</div>	Switches transceiver from receive to transmit when grounded
+<div>Which of the following describes combining speech with an RF carrier signal?</div>	Modulation
+<div>What is the function of the SSB/CW-FM switch on a VHF power amplifier?</div>	<div>Set the amplifier for proper operation in the selected mode</div>
+<div>What device increases the transmitted output power from a transceiver?</div>	An RF power amplifier
+<div>Where is an RF preamplifier installed?</div>	Between the antenna and receiver
+<div>What can you do if you are told your FM handheld or mobile transceiver is over-deviating?</div>	Talk farther away from the microphone
+<div>What would cause a broadcast AM or FM radio to receive an amateur radio transmission unintentionally?</div>	The receiver is unable to reject strong signals outside the AM or FM band
+<div>Which of the following can cause radio frequency interference?</div>	Fundamental overload, Harmonics, and spurious emissions
+<div>Which of the following could you use to cure distorted audio caused by RF current on the shield of a microphone cable?</div>	<div>Ferrite choke</div>
+<div>How can fundamental overload of a non-amateur radio or TV receiver by an amateur signal be reduced or eliminated?</div>	Block the amateur signal with a filter at the antenna input of the affected receiver
+<div>Which of the following actions should you take if a neighbor tells you that your station’s transmissions are interfering with their radio or TV reception?</div>	<div>Make sure that your station is functioning properly and that it does not cause interference to your own radio or television when it is tuned to the same channel&nbsp;</div>
+<div>Which of the following can reduce overload of a VHF transceiver by a nearby commercial FM station?</div>	<div>Installing a band-reject filter</div>
+<div>What should you do if something in a neighbor’s home is causing harmful interference to your amateur station?</div>	Work with your neighbor to identify the offending device, Politely inform your neighbor that FCC rules prohibit the use of devices that cause interference, and Make sure your station meets the standards of good amateur practice&nbsp;
+<div>What should be the first step to resolve non-fiber optic cable TV interference caused by your amateur radio transmission?</div>	Be sure all TV feed line coaxial connectors are installed properly
+<div>What might be a problem if you receive a report that your audio signal through an FM repeater is distorted or unintelligible?</div>	Your transmitter is slightly off frequency, Your batteries are running low, or You are in a bad location
+<div>What is a symptom of RF feedback in a transmitter or transceiver?</div>	Reports of garbled, distorted, or unintelligible voice transmissions
+<div>What is the primary purpose of a dummy load?</div>	To prevent transmitting signals over the air when making tests
+<div>Which of the following is used to determine if an antenna is resonant at the desired operating frequency?</div>	An antenna analyzer
+<div>What does a dummy load consist of?</div>	A non-inductive resistor mounted on a heat sink
+<div>What reading on an SWR meter indicates a perfect impedance match between the antenna and the feed line?</div>	1:1
+<div>Why do most solid-state transmitters reduce output power as SWR increases beyond a certain level?</div>	To protect the output amplifier transistors
+<div>What does an SWR reading of 4:1 indicate?</div>	Impedance mismatch
+<div>What happens to power lost in a feed line?</div>	It is converted into heat
+<div>Which instrument can be used to determine SWR?&nbsp;</div>	Directional wattmeter
+<div>Which of the following causes failure of coaxial cables?</div>	Moisture contamination
+<div>Why should the outer jacket of coaxial cable be resistant to ultraviolet light?</div>	<div>Ultraviolet light can damage the jacket and allow water to enter the cable</div>
+<div>What is a disadvantage of air core coaxial cable when compared to foam or solid dielectric types?</div>	<div>&nbsp;It requires special techniques to prevent moisture in the cable</div>
+<div>Which instrument would you use to measure electric potential?</div>	A voltmeter
+<div>How is a voltmeter connected to a component to measure applied voltage?</div>	In parallel
+<div>When configured to measure current, how is a multimeter connected to a component?</div>	In series
+<div>Which instrument is used to measure electric current?</div>	&nbsp;An ammeter
+<div>Which of the following can damage a multimeter?</div>	"<div>Attempting to measure voltage when using the resistance setting'</div>"
+<div>Which of the following measurements are made using a multimeter?</div>	<div>Voltage and resistance</div>
+<div>Which of the following types of solder should not be used for radio and electronic applications?</div>	Acid-core solder
+<div>What is the characteristic appearance of a cold tin-lead solder joint?</div>	A rough or lumpy surface
+<div>What reading indicates that an ohmmeter is connected across a large, discharged capacitor?</div>	Increasing resistance with time
+<div>Which of the following precautions should be taken when measuring in-circuit resistance with an ohmmeter?</div>	Ensure that the circuit is not powered
+<div>Which of the following is a form of amplitude modulation?</div>	Single sideband
+<div>What type of modulation is commonly used for VHF packet radio transmissions?</div>	FM or PM
+<div>Which type of voice mode is often used for long-distance (weak signal) contacts on the VHF and UHF bands?</div>	SSB
+<div>Which type of modulation is commonly used for VHF and UHF voice repeaters?</div>	FM or PM
+<div>Which of the following types of signal has the narrowest bandwidth?</div>	CW
+<div>Which sideband is normally used for 10 meter HF, VHF, and UHF single-sideband communications?</div>	Upper sideband
+<div>What is a characteristic of single sideband (SSB) compared to FM?</div>	SSB signals have narrower bandwidth
+<div>What is the approximate bandwidth of a typical single sideband (SSB) voice signal?</div>	3 kHz
+<div>What is the approximate bandwidth of a VHF repeater FM voice signal?</div>	"Between 10 and 15 kHz'"
+<div>What is the approximate bandwidth of AM fast-scan TV transmissions?</div>	About 6 MHz
+<div>What is the approximate bandwidth required to transmit a CW signal?</div>	<div>150 Hz</div>
+<div>Which of the following is a disadvantage of FM compared with single sideband?</div>	Only one signal can be received at a time
+<div>What telemetry information is typically transmitted by satellite beacons?</div>	Health and status of the satellite
+<div>What is the impact of using excessive effective radiated power on a satellite uplink?</div>	Blocking access by other users
+<div>Which of the following are provided by satellite tracking programs?</div>	<div>Maps showing the real-time position of the satellite track over Earth, The time, azimuth, and elevation of the start, maximum altitude, and end of a pass, and The apparent frequency of the satellite transmission, including effects of Doppler shift</div>
+<div>What mode of transmission is commonly used by amateur radio satellites?</div>	SSB, FM, and CW/data
+<div>What is a satellite beacon?</div>	<div>A transmission from a satellite that contains status information</div>
+<div>Which of the following are inputs to a satellite tracking program?</div>	The Keplerian elements
+<div>What is Doppler shift in reference to satellite communications?</div>	&nbsp;An observed change in signal frequency caused by relative motion between the satellite and Earth station
+<div>What is meant by the statement that a satellite is operating in U/V mode?</div>	The satellite uplink is in the 70 centimeter band and the downlink is in the 2 meter band
+<div>What causes spin fading of satellite signals?</div>	Rotation of the satellite and its antennas
+<div>What is a LEO satellite?</div>	A satellite in low earth orbit
+<div>Who may receive telemetry from a space station?</div>	Anyone
+<div>Which of the following is a way to determine whether your satellite uplink power is neither too low nor too high?</div>	Your signal strength on the downlink should be about the same as the beacon
+<div>Which of the following methods is used to locate sources of noise interference or jamming?</div>	Radio direction finding
+<div>Which of these items would be useful for a hidden transmitter hunt?</div>	A directional antenna
+<div>What operating activity involves contacting as many stations as possible during a specified period?</div>	Contesting
+<div>Which of the following is good procedure when contacting another station in a contest?</div>	Send only the minimum information needed for proper identification and the contest exchange
+<div>What is a grid locator?</div>	A letter-number designator assigned to a geographic location
+<div>How is over the air access to IRLP nodes accomplished?</div>	By using DTMF signals
+<div>What is Voice Over Internet Protocol (VoIP)?</div>	<div>A method of delivering voice communications over the internet using digital techniques</div>
+<div>What is the Internet Radio Linking Project (IRLP)?</div>	A technique to connect amateur radio systems, such as repeaters, via the internet using Voice Over Internet Protocol (VoIP)
+<div>Which of the following protocols enables an amateur station to transmit through a repeater without using a radio to initiate the transmission?</div>	EchoLink
+<div>What is required before using the EchoLink system?</div>	Register your call sign and provide proof of license&nbsp;
+<div>What is an amateur radio station that connects other amateur stations to the internet?</div>	A gateway
+<div>Which of the following is a digital communications mode?</div>	Packet radio, IEEE 802.11, FT8
+<div>What is a “talkgroup” on a DMR repeater?</div>	A way for groups of users to share a channel at different times without hearing other users on the channel
+<div>What kind of data can be transmitted by APRS?</div>	GPS data, Text messages, and Weather data
+"<div>What type of transmission is indicated by the term ""NTSC?""</div>"	An analog fast-scan color TV signal
+<div>Which of the following is an application of APRS?</div>	<div>Providing real-time tactical digital communications in conjunction with a map showing the locations of stations</div>
+"<div>What does the abbreviation ""PSK"" mean?</div>"	Phase Shift Keying
+<div>Which of the following describes DMR?</div>	<div>A technique for time-multiplexing two digital voice signals on a single 12.5 kHz repeater channel</div>
+<div>Which of the following is included in packet radio transmissions?</div>	<div>A check sum that permits error detection, A header that contains the call sign of the station to which the information is being sent, Automatic repeat request in case of error</div>
+<div>What is CW?</div>	Another name for a Morse code transmission
+<div>Which of the following operating activities is supported by digital mode software in the WSJT-X software suite?&nbsp;&nbsp;</div>	Earth-Moon-Earth, Weak signal propagation beacons, and Meteor scatter
+<div>What is an ARQ transmission system?</div>	An error correction method in which the receiving station detects errors and sends a request for retransmission
+<div>Which of the following best describes an amateur radio mesh network?</div>	An amateur-radio based data network using commercial Wi-Fi equipment with modified firmware
+<div>What is FT8?</div>	A digital mode capable of low signal-to-noise operation
+<div>What is a beam antenna?</div>	An antenna that concentrates signals in one direction
+<div>Which of the following describes a type of antenna loading?</div>	Electrically lengthening by inserting inductors in radiating elements
+"<div>Which of the following describes a simple dipole oriented parallel to Earth's surface?</div>"	A horizontally polarized antenna
+<div>What is a disadvantage of the short, flexible antenna supplied with most handheld radio transceivers, compared to a full-sized quarter-wave antenna?</div>	&nbsp;It has low efficiency
+<div>Which of the following increases the resonant frequency of a dipole antenna?</div>	Shortening it
+<div>Which of the following types of antenna offers the greatest gain?</div>	Yagi&nbsp;
+<div>What is a disadvantage of using a handheld VHF transceiver with a flexible antenna inside a vehicle?</div>	Signal strength is reduced due to the shielding effect of the vehicle
+<div>What is the approximate length, in inches, of a quarter-wavelength vertical antenna for 146 MHz?</div>	19
+<div>What is the approximate length, in inches, of a half-wavelength 6 meter dipole antenna?</div>	112
+<div>In which direction does a half-wave dipole antenna radiate the strongest signal?</div>	Broadside to the antenna
+<div>What is antenna gain?</div>	The increase in signal strength in a specified direction compared to a reference antenna
+<div>What is an advantage of a 5/8 wavelength whip antenna for VHF or UHF mobile service?</div>	It has more gain than a 1/4-wavelength antenna
+<div>What is a benefit of low SWR?</div>	Reduced signal loss
+<div>What is the most common impedance of coaxial cables used in amateur radio?</div>	50 ohms
+<div>Why is coaxial cable the most common feed line for amateur radio antenna systems?</div>	It is easy to use and requires few special installation considerations
+<div>What is the major function of an antenna tuner (antenna coupler)?</div>	"<div>It matches the antenna system impedance to the transceiver's output impedance</div>"
+<div>What happens as the frequency of a signal in coaxial cable is increased?</div>	The loss increases
+<div>Which of the following RF connector types is most suitable for frequencies above 400 MHz?</div>	Type N
+<div>Which of the following is true of PL-259 type coax connectors?</div>	<div>They are commonly used at HF and VHF frequencies</div>
+<div>Which of the following is a source of loss in coaxial feed line?</div>	<div>Water intrusion into coaxial connectors, High SWR, and Multiple connections in the line</div>
+<div>What can cause erratic changes in SWR?</div>	Loose connection in the antenna or feed line
+<div>What is the electrical difference between RG-58 and RG-213 coaxial cable?</div>	<div>RG-213 cable has less loss at a given frequency</div>
+<div>Which of the following types of feed line has the lowest loss at VHF and UHF?</div>	Air-insulated hardline
+<div>What is standing wave ratio (SWR)?</div>	A measure of how well a load is matched to a transmission line
+<div>Which of the following is a safety hazard of a 12-volt storage battery?</div>	<div>Shorting the terminals can cause burns, fire, or an explosion</div>
+<div>What health hazard is presented by electrical current flowing through the body?</div>	It may cause injury by heating tissue, It may disrupt the electrical functions of cells, and It may cause involuntary muscle contractions
+<div>In the United States, what circuit does black wire insulation indicate in a three-wire 120 V cable?</div>	Hot
+<div>What is the purpose of a fuse in an electrical circuit?</div>	To remove power in case of overload
+<div>Why should a 5-ampere fuse never be replaced with a 20-ampere fuse?</div>	&nbsp;Excessive current could cause a fire
+<div>What is a good way to guard against electrical shock at your station?</div>	Use three-wire cords and plugs for all AC powered equipment, Connect all AC powered station equipment to a common safety ground, Install mechanical interlocks in high-voltage circuits
+<div>Where should a lightning arrester be installed in a coaxial feed line?</div>	On a grounded panel near where feed lines enter the building
+<div>Where should a fuse or circuit breaker be installed in a 120V AC power circuit?</div>	<div>In series with the hot conductor only</div>
+<div>What should be done to all external ground rods or earth connections?</div>	Bond them together with heavy wire or conductive strap
+<div>What hazard is caused by charging or discharging a battery too quickly?</div>	<div>Overheating or out-gassing</div>
+<div>What hazard exists in a power supply immediately after turning it off?</div>	Charge stored in filter capacitors
+<div>Which of the following precautions should be taken when measuring high voltages with a voltmeter?</div>	<div>Ensure that the voltmeter and leads are rated for use at the voltages to be measured</div>
+<div>Which of the following is good practice when installing ground wires on a tower for lightning protection?</div>	<div>Ensure that connections are short and direct</div>
+<div>What is required when climbing an antenna tower?</div>	Have sufficient training on safe tower climbing techniques, Use appropriate tie-off to the tower at all times, Always wear an approved climbing harness
+<div>Under what circumstances is it safe to climb a tower without a helper or observer?</div>	Never
+<div>Which of the following is an important safety precaution to observe when putting up an antenna tower?</div>	Look for and stay clear of any overhead electrical wires
+<div>What is the purpose of a safety wire through a turnbuckle used to tension guy lines?</div>	<div>Prevent loosening of the turnbuckle from vibration</div>
+<div>Prevent loosening of the turnbuckle from vibration</div>	Enough so that if the antenna falls, no part of it can come closer than 10 feet to the power wires
+<div>Which of the following is an important safety rule to remember when using a crank-up tower?</div>	This type of tower must not be climbed unless it is retracted, or mechanical safety locking devices have been installed
+<div>Which is a proper grounding method for a tower?</div>	<div>Separate eight-foot ground rods for each tower leg, bonded to the tower and each other</div>
+<div>Why should you avoid attaching an antenna to a utility pole?</div>	The antenna could contact high-voltage power lines
+<div>Which of the following is true when installing grounding conductors used for lightning protection?</div>	<div>Sharp bends must be avoided</div>
+<div>Which of the following establishes grounding requirements for an amateur radio tower or antenna?</div>	Local electrical codes
+<div>What type of radiation are radio signals?</div>	&nbsp;Non-ionizing radiation
+<div>At which of the following frequencies does maximum permissible exposure have the lowest value?</div>	50 MHz
+<div>How does the allowable power density for RF safety change if duty cycle changes from 100 percent to 50 percent?</div>	&nbsp;It increases by a factor of 2
+<div>What factors affect the RF exposure of people near an amateur station antenna?</div>	<div>Frequency and power level of the RF field, Distance from the antenna to a person, and Radiation pattern of the antenna</div>
+<div>Why do exposure limits vary with frequency?</div>	The human body absorbs more RF energy at some frequencies than at others
+<div>Which of the following is an acceptable method to determine whether your station complies with FCC RF exposure regulations?</div>	By calculation based on FCC OET Bulletin 65, By calculation based on computer modeling, and By measurement of field strength using calibrated equipment
+<div>What hazard is created by touching an antenna during a transmission?</div>	RF burn to skin
+<div>Which of the following actions can reduce exposure to RF radiation?</div>	Relocate antennas
+<div>How can you make sure your station stays in compliance with RF safety regulations?</div>	<div>By re-evaluating the station whenever an item in the transmitter or antenna system is changed</div>
+<div>Why is duty cycle one of the factors used to determine safe RF radiation exposure levels?</div>	It affects the average exposure to radiation
+<div>What is the definition of duty cycle during the averaging time for RF exposure?&nbsp;</div>	The percentage of time that a transmitter is transmitting
+<div>How does RF radiation differ from ionizing radiation (radioactivity)?</div>	<div>RF radiation does not have sufficient energy to cause chemical changes in cells and damage DNA</div>
+<div>Who is responsible for ensuring that no person is exposed to RF energy above the FCC exposure limits?</div>	The station licensee
